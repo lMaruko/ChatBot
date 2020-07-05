@@ -2,7 +2,7 @@
 
 ![image](https://image.freepik.com/vector-gratis/dog-cat-logo-template-veterinaria_56473-108.jpg)
 
-> Instalar depencia 🚀
+> Instalar dependencia 🚀
 ```
 npm install
 ```
