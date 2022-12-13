@@ -13,7 +13,7 @@
     "dependencies": {
         "adathink-sdk-bot": "0.0.3",
         "dotenv": "^8.2.0",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "ibm-watson": "^5.5.0",
         "prompt-sync": "^4.2.0"
     }
